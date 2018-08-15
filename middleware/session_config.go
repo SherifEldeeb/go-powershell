@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/gorillalabs/go-powershell/utils"
+	"github.com/SherifEldeeb/go-powershell/utils"
 	"github.com/juju/errors"
 )
 
